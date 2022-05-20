@@ -10,11 +10,13 @@
     <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
   </a>
  </div>
-
+<div align="center">
 ### Developing the Web Developer in me
+  </div>
 
  🔭 I’m currently diving deeper into:
-<div>
+ <br>
+<div align="center">
    <a href="https://reactjs.org/">
        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   </a> 
@@ -55,13 +57,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>
 
   </a> 
-  
-  
 </div>
+<br>
  🌱 My next step is start to learn:
-<div>
+ <br>
+<div align="center">
  </a> 
-   <a href="https://dashboard.heroku.com/">
+   <a href="https://www.typescriptlang.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
 
   </a> 
