@@ -14,8 +14,9 @@
  Developing the Web Developer in me
   </h3>
 <br>
-
+<div align="center">
  🔭 I’m currently diving deeper into:
+  </div>
  <br>
 <div align="center">
    <a href="https://reactjs.org/">
@@ -60,7 +61,9 @@
   </a> 
 </div>
 <br>
+<div align="center">
  🌱 My next step is start to learn:
+  </div>
  <br>
 <div align="center">
  </a> 
