@@ -10,9 +10,10 @@
     <img src="https://img.shields.io/badge/SoundCloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud Badge"/>
   </a>
  </div>
-<div align="center">
-### Developing the Web Developer in me
-  </div>
+<h3 align="center">
+ Developing the Web Developer in me
+  </h3>
+<br>
 
  🔭 I’m currently diving deeper into:
  <br>
