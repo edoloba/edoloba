@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="300" height="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/edoardo-lovino-47211a15b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
