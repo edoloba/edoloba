@@ -15,7 +15,7 @@
   </h3>
 <br>
 <div align="center">
- 🔭 I’m currently diving deeper into:
+ 🔭 The stack I have learned and I am willing to master:
   </div>
  <br>
 <div align="center">
